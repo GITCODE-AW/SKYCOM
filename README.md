@@ -7,6 +7,7 @@ TECH STACK :
     <li>Python</li>
     <li>Javascript</li>
     <li>HTML</li>
+    <li>CSS</li>
 </ul>
 
 Features : 
