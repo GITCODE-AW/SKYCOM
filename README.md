@@ -3,6 +3,7 @@ TECH STACK :
     <li>Reach js</li>
     <li>Django for backend</li>
     <li>Django REST for api</li>
+    <li>Redux Toolkit for statmanagment</li>
     <li>Python</li>
     <li>Javascript</li>
     <li>HTML</li>
