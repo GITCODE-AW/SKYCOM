@@ -17,4 +17,5 @@ Features :
     <li>Cart</li>
     <li>Order</li>
     <li>Email Verification</li>
+    <li>User Dashboard</li>
 </ul>
