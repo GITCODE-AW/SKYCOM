@@ -1,5 +1,9 @@
 TECH STACK : 
-    react.js
-    django for backend
-    django rest framework for api
-    html, css, js
+   <ul>
+        <li>Reach js</li>
+       <li>Django for backend</li>
+       <li>Django REST for api</li>
+       <li>Python</li>
+       <li>Javascript</li>
+       <li>HTML</li>
+   </ul>
