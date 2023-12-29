@@ -1,0 +1,35 @@
+/* loading message css here */
+.loading-message{
+    font-size: 1.5rem;
+    min-height: 80vh;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* notifybox css here */
+
+.notification-box{
+    color: black;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.notification-green{
+    background-color: rgba(218, 248, 218, 0.473);
+}
+
+.notification-red{
+    background-color: rgba(248, 218, 218, 0.473);
+}
+
+@media (max-width:425px) {
+    .notification-box, .notification-button{
+        font-size: 0.7rem;
+        padding: 0.2rem 1rem;
+    }
+}
