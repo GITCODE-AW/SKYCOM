@@ -16,3 +16,8 @@
 - Order
 - Email Verification
 - User Dashboard
+
+## Demo Video
+
+https://github.com/GITCODE-AW/SKYCOM/assets/99113986/57308ecf-192f-4b1a-b315-1c3e5b254630
+
